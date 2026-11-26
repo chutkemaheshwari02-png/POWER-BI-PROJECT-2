@@ -2,7 +2,7 @@
 Analysis using the Power BI
 
 # Title :-
-#  Personal Financial Analytics Dashboard :--
+#  Personal Financial Analytics Dashboard :-
 
 
 
