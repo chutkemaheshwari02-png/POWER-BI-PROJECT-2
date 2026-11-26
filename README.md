@@ -7,6 +7,8 @@ Analysis using the Power BI
 
 
 💰 Personal Financial Analytics Dashboard
+
+
 📌 Project Overview
 
 The Personal Financial Analytics Dashboard is a finance-domain data analytics project designed to track, analyze, and visualize personal financial activities.
@@ -16,6 +18,7 @@ It helps users understand their income, expenses, savings, spending habits, and 
 The project aims to support better financial planning, budgeting, and data-driven decision-making.
 
 🎯 Project Objectives
+
 Analyze monthly income and expenses.
 Track personal savings and spending patterns.
 Understand expense distribution across categories.
@@ -24,6 +27,7 @@ Identify unnecessary spending.
 Support better budgeting and financial planning.
 
 ✨ Key Features
+
 Income Analysis: Track income sources and monthly earnings.
 Expense Analysis: Monitor daily and monthly expenses.
 Savings Analysis: Understand savings trends and growth.
@@ -32,7 +36,8 @@ Category-wise Analysis: Analyze spending across different categories.
 Monthly Trends: Visualize income and expenses over time.
 Interactive Dashboard: Explore financial data using filters and charts.
 
-📊 Key Performance Indicators (KPIs)
+📊 Key Performance Indicators (KPIs):-
+
 Total Income
 Total Expenses
 Total Savings
@@ -46,7 +51,8 @@ Microsoft Excel – Data Cleaning and Preparation
 SQL – Data Analysis and Data Management
 Data Analytics – Financial Insights and Reporting
 
-📈 Dashboard Insights
+📈 Dashboard Insights:-
+
 Monthly income and expense comparison.
 Savings trends over time.
 Category-wise spending distribution.
